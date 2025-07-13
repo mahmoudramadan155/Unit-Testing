@@ -1,0 +1,10 @@
+{
+    "database": {
+        "path": "tasks.db"
+    },
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "file": "task_manager.log"
+    }
+}

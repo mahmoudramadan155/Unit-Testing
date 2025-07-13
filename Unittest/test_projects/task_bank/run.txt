@@ -1,0 +1,16 @@
+Run CLI:
+python main.py create "John Doe" 100.0
+python main.py list
+python main.py deposit ACC0001 50.0
+python main.py get ACC0001
+python main.py withdraw ACC0001 75.0
+python main.py transfer ACC0001 ACC0002 25 # Assuming ACC0002 exists
+python main.py --help # Show all commands
+
+Run Tests:
+python -m unittest discover tests
+
+Run Tests with Coverage:
+coverage run -m unittest discover tests
+coverage report
+coverage html

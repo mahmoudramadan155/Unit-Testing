@@ -1,0 +1,66 @@
+2025-02-17 00:15:42,679 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,679 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,679 - BankSystemLogger - INFO - Created account ACC0003 for Alice Wonderland.
+2025-02-17 00:15:42,679 - BankSystemLogger - INFO - Created account ACC0003 for Alice Wonderland.
+2025-02-17 00:15:42,680 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,680 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,681 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,681 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,682 - BankSystemLogger - INFO - Deposited 50.00 into account ACC0001.
+2025-02-17 00:15:42,682 - BankSystemLogger - INFO - Deposited 50.00 into account ACC0001.
+2025-02-17 00:15:42,682 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,682 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,683 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'nofile.json' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'nofile.json' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'nofile.json' not found.  Starting with empty account list.
+2025-02-17 00:15:42,684 - BankSystemLogger - WARNING - Data source file 'nofile.json' not found.  Starting with empty account list.
+2025-02-17 00:15:42,685 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,685 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,690 - BankSystemLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty account list.
+2025-02-17 00:15:42,690 - BankSystemLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty account list.
+2025-02-17 00:15:42,691 - BankSystemLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty account list.
+2025-02-17 00:15:42,691 - BankSystemLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty account list.
+2025-02-17 00:15:42,691 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,691 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,693 - BankSystemLogger - INFO - Accounts loaded from file.
+2025-02-17 00:15:42,693 - BankSystemLogger - INFO - Accounts loaded from file.
+2025-02-17 00:15:42,693 - BankSystemLogger - INFO - Accounts loaded from file.
+2025-02-17 00:15:42,693 - BankSystemLogger - INFO - Accounts loaded from file.
+2025-02-17 00:15:42,693 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,693 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,695 - BankSystemLogger - ERROR - Error decoding JSON in 'test_accounts.json'. Starting with empty account list.
+2025-02-17 00:15:42,695 - BankSystemLogger - ERROR - Error decoding JSON in 'test_accounts.json'. Starting with empty account list.
+2025-02-17 00:15:42,696 - BankSystemLogger - INFO - Accounts successfully saved
+2025-02-17 00:15:42,696 - BankSystemLogger - INFO - Accounts successfully saved
+2025-02-17 00:15:42,697 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,697 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,699 - BankSystemLogger - INFO - Transferred 25.00 from ACC0001 to ACC0002.
+2025-02-17 00:15:42,699 - BankSystemLogger - INFO - Transferred 25.00 from ACC0001 to ACC0002.
+2025-02-17 00:15:42,700 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,700 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,700 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,700 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,701 - BankSystemLogger - ERROR - Transfer failed: Insufficient balance.
+2025-02-17 00:15:42,701 - BankSystemLogger - ERROR - Transfer failed: Insufficient balance.
+2025-02-17 00:15:42,702 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,702 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,702 - BankSystemLogger - ERROR - Transfer failed: Withdrawal amount must be positive.
+2025-02-17 00:15:42,702 - BankSystemLogger - ERROR - Transfer failed: Withdrawal amount must be positive.
+2025-02-17 00:15:42,703 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,703 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,703 - BankSystemLogger - INFO - Withdrew 25.00 from account ACC0001.
+2025-02-17 00:15:42,703 - BankSystemLogger - INFO - Withdrew 25.00 from account ACC0001.
+2025-02-17 00:15:42,704 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,704 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,704 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,704 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,705 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.
+2025-02-17 00:15:42,705 - BankSystemLogger - WARNING - Data source file 'mock' not found.  Starting with empty account list.

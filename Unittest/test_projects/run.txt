@@ -1,0 +1,25 @@
+Run the CLI:
+python main.py --help  # See available commands
+python main.py create "Grocery Shopping" "Buy milk, eggs, bread" "2024-03-15"
+python main.py list
+python main.py get 1
+python main.py update 1 "Grocery Run" "Milk, eggs, bread, cheese" "2024-03-16" "In Progress"
+python main.py delete 1
+
+Run the tests:
+python -m unittest file.py
+python -m unittest -v file.py
+python -m unittest discover
+python -m unittest discover tests
+
+python -m unittest test_my_module.py
+python -m unittest discover -s tests
+python -m unittest -v test_my_module.py
+
+
+Run tests with coverage:
+coverage run -m unittest discover tests
+coverage report  # See coverage in the console
+coverage html   # Generate an HTML report (open htmlcov/index.html)
+
+

@@ -1,0 +1,20 @@
+2025-02-16 23:45:10,758 - TaskManagerLogger - INFO - Task created: New Task
+2025-02-16 23:45:10,758 - TaskManagerLogger - INFO - Task created: New Task
+2025-02-16 23:45:10,759 - TaskManagerLogger - ERROR - Error creating task: All fields (title, description, due_date) are required.
+2025-02-16 23:45:10,759 - TaskManagerLogger - ERROR - Error creating task: All fields (title, description, due_date) are required.
+2025-02-16 23:45:10,760 - TaskManagerLogger - INFO - Task deleted: Test Task 1
+2025-02-16 23:45:10,760 - TaskManagerLogger - INFO - Task deleted: Test Task 1
+2025-02-16 23:45:10,761 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,761 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,761 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,761 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,762 - TaskManagerLogger - INFO - Listing all tasks.
+2025-02-16 23:45:10,762 - TaskManagerLogger - INFO - Listing all tasks.
+2025-02-16 23:45:10,772 - TaskManagerLogger - INFO - Tasks saved to file.
+2025-02-16 23:45:10,772 - TaskManagerLogger - INFO - Tasks saved to file.
+2025-02-16 23:45:10,774 - TaskManagerLogger - INFO - Task updated: Updated Title
+2025-02-16 23:45:10,774 - TaskManagerLogger - INFO - Task updated: Updated Title
+2025-02-16 23:45:10,774 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,774 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:45:10,774 - TaskManagerLogger - ERROR - Error updating task: All fields (title, description, due_date, status) are required for update.
+2025-02-16 23:45:10,774 - TaskManagerLogger - ERROR - Error updating task: All fields (title, description, due_date, status) are required for update.

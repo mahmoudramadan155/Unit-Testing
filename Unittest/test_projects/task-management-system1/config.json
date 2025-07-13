@@ -1,0 +1,4 @@
+{
+    "data_file": "tasks.json",
+    "api_base_url": "http://localhost:5000"
+}

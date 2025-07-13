@@ -1,0 +1,13 @@
+2025-02-16 23:47:43,158 - TaskManagerLogger - INFO - Task created: New Task
+2025-02-16 23:47:43,159 - TaskManagerLogger - ERROR - Error creating task: All fields (title, description, due_date) are required.
+2025-02-16 23:47:43,160 - TaskManagerLogger - INFO - Task deleted: Test Task 1
+2025-02-16 23:47:43,160 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:47:43,160 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:47:43,160 - TaskManagerLogger - INFO - Listing all tasks.
+2025-02-16 23:47:43,161 - TaskManagerLogger - WARNING - Data source file 'no_file.json' not found.  Starting with empty task list.
+2025-02-16 23:47:43,169 - TaskManagerLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty task list.
+2025-02-16 23:47:43,171 - TaskManagerLogger - INFO - Tasks loaded from file.
+2025-02-16 23:47:43,174 - TaskManagerLogger - INFO - Tasks saved to file.
+2025-02-16 23:47:43,174 - TaskManagerLogger - INFO - Task updated: Updated Title
+2025-02-16 23:47:43,175 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2025-02-16 23:47:43,176 - TaskManagerLogger - ERROR - Error updating task: All fields (title, description, due_date, status) are required for update.
