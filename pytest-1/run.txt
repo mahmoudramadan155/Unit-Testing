@@ -1,0 +1,48 @@
+| Option                        | Description                                                                       |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| `pytest path/to/test_file.py` | Run a specific test file                                                          |
+| `pytest dir/`                 | Run all tests in a directory                                                      |
+| `pytest -k "expression"`      | Run tests matching a substring or expression<br>e.g., `-k "login and not logout"` |
+| `pytest -m "marker"`          | Run tests with a specific marker (like `@pytest.mark.slow`)                       |
+
+| Option                         | Description                                |
+| ------------------------------ | ------------------------------------------ |
+| `-v`                           | Verbose output                             |
+| `-q`                           | Quiet output                               |
+| `-s`                           | Show `print()` statements                  |
+| `--tb=short`                   | Short traceback                            |
+| `--tb=auto/long/line/short/no` | Customize traceback format                 |
+| `--maxfail=NUM`                | Stop after N failures                      |
+| `--disable-warnings`           | Hide warnings                              |
+| `--capture=no`                 | Disable output capturing (similar to `-s`) |
+
+| Option                                        | Description                               |
+| --------------------------------------------- | ----------------------------------------- |
+| `pytest test_file.py::TestClass::test_method` | Run a specific test method inside a class |
+
+pytest
+pytest tests\test_sample.py
+pytest tests\test_sample.py::test_add
+
+# Run tests in verbose mode, show print statements, and show more verbose output
+pytest -vv
+pytest -v #Show more verbose output:
+pytest -x #Stop at first failure:
+pytest -s #Show print statements (if any):
+# Run tests in parallel
+pytest -n 4
+
+| Option                    | Description                                      |
+| ------------------------- | ------------------------------------------------ |
+| `--setup-show`            | Show setup and teardown of fixtures              |
+| `--lf` / `--last-failed`  | Run only last failed tests                       |
+| `--ff` / `--failed-first` | Run failed tests first, then the rest            |
+| `--pdb`                   | Drop into Python debugger on failure             |
+| `--durations=N`           | Show N slowest tests                             |
+| `--html=report.html`      | Generate an HTML report (requires `pytest-html`) |
+| `--cov=package`           | Measure test coverage (requires `pytest-cov`)    |
+
+pytest-cov: Code coverage
+pytest-xdist: Parallel test execution
+pytest-mock: Easier mocking
+pytest-html: Generate test reports in HTML
